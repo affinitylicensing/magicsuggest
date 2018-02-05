@@ -1,0 +1,19 @@
+{
+  "name": "magicsuggest-affinity",
+  "version": "1.0.0",
+  "description": "Fork to work with jQuery 3",
+  "main": "magicsuggest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/affinitylicensing/magicsuggest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/affinitylicensing/magicsuggest/issues"
+  },
+  "homepage": "https://github.com/affinitylicensing/magicsuggest#readme"
+}
